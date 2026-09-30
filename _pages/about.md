@@ -29,9 +29,6 @@ permalink: /
     <a href="https://scholar.google.com/citations?user=t7GLfp0AAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer" aria-label="Google Scholar"><i class="ai ai-google-scholar" aria-hidden="true"></i> Google Scholar</a>
     <a href="https://github.com/ccho4702" target="_blank" rel="noopener noreferrer" aria-label="GitHub"><i class="fa-brands fa-github" aria-hidden="true"></i> GitHub</a>
     <a href="https://linkedin.com/in/changho-choi-075399331/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"><i class="fa-brands fa-linkedin" aria-hidden="true"></i> LinkedIn</a>
-    <a href="/publications/" aria-label="Publications"><i class="fa-solid fa-book-open" aria-hidden="true"></i> Publications</a>
-    <a href="/assets/pdf/Changho_CV.pdf" target="_blank" rel="noopener noreferrer" aria-label="CV PDF"><i class="fa-solid fa-file-pdf" aria-hidden="true"></i> CV</a>
-    <a href="/transcripts/" aria-label="Undergraduate transcript"><i class="fa-solid fa-graduation-cap" aria-hidden="true"></i> Transcript</a>
   </div>
 </section>
 
