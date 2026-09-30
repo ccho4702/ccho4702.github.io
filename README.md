@@ -24,14 +24,10 @@ bundle exec jekyll serve
 
 Open http://127.0.0.1:4000. A production build is made with `bundle exec jekyll build`.
 
-## Publish on GitHub Pages
+## Updating the published site
 
-1. Create a public repository named `ccho4702.github.io` under the `ccho4702` GitHub account.
-2. Push these source files to its `main` branch.
-3. Let the included **Deploy site** GitHub Actions workflow build the site. It writes the generated site to a `gh-pages` branch.
-4. In the repository's **Settings → Pages**, set the source to **Deploy from a branch**, choose `gh-pages` and `/(root)`.
-5. Visit https://ccho4702.github.io after deployment completes.
+The homepage is live at **https://ccho4702.github.io**. Edit these source files and push a commit to `main`. The included **Deploy site** workflow builds the site and publishes it from the `gh-pages` branch.
 
-**Before publishing:** the undergraduate transcript PDF in `assets/pdf/` will be publicly downloadable. Review it and remove or replace any information you do not want to publish. Also review the contact addresses, biography, and publication list.
+The undergraduate transcript PDF in `assets/pdf/` is publicly downloadable. No graduate transcript is included.
 
 The source site remains under the [al-folio license](LICENSE).
