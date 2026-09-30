@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ccho4702.github.io/sitemap.xml
