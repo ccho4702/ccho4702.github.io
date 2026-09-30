@@ -7,6 +7,8 @@ nav: true
 nav_order: 3
 ---
 
+{% include site_style.liquid %}
+
 My English-language undergraduate academic transcript is available below.
 
 - [Undergraduate transcript (PDF)]({{ '/assets/pdf/Changho_Choi_transcript_undergraduate.pdf' | relative_url }})

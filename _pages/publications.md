@@ -7,6 +7,8 @@ nav: true
 nav_order: 1
 ---
 
+{% include site_style.liquid %}
+
 For the most current list, see my [Google Scholar profile](https://scholar.google.com/citations?user=t7GLfp0AAAAJ&hl=en).
 
 <div class="publications">

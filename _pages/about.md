@@ -19,20 +19,7 @@ latest_posts:
   enabled: false
 ---
 
-<style>
-  :root { --global-theme-color: #334b68 !important; }
-  body { background: #f5f6f8 !important; }
-  #navbar { background: #fff !important; border-bottom: 1px solid #e6e9ee; }
-  .post { background: #fff; border: 1px solid #e7eaf0; border-radius: 7px; box-shadow: 0 2px 10px rgba(31, 47, 69, 0.055); padding: 2rem 2.45rem; }
-  .post .profile img { border-radius: 4px !important; }
-  .contact-row { clear: both; border-top: 1px solid #e0e5eb; margin: 1.65rem 0 1.5rem; padding-top: 1rem; display: flex; flex-wrap: wrap; gap: 0.75rem 1.3rem; align-items: center; }
-  .contact-row a { color: #334b68 !important; text-decoration: none; white-space: nowrap; font-size: 0.95rem; }
-  .contact-row a:hover { text-decoration: underline; }
-  .contact-row i { margin-right: 0.2rem; }
-  footer { background: #f5f6f8 !important; color: #66758a !important; }
-  @media (min-width: 576px) { .post .profile { width: 27%; } }
-  @media (max-width: 575px) { .post { padding: 1.25rem; } .contact-row { gap: 0.7rem 1rem; } }
-</style>
+{% include site_style.liquid %}
 
 Hello! I am **Changho Choi**, a Ph.D. student in Electrical Engineering at [KAIST](https://www.kaist.ac.kr/en/) advised by [Prof. Junmo Kim](https://scholar.google.com/citations?user=GdQtWNQAAAAJ&hl=en). I am currently visiting Carnegie Mellon University through a fully funded Korean government exchange program.
 

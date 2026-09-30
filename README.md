@@ -9,6 +9,7 @@ This is Changho Choi's research homepage, built with the [al-folio](https://gith
 - CV page: `_pages/cv.md`. Add `assets/pdf/Changho_Choi_CV.pdf` to make the download link appear.
 - Undergraduate transcript link: `_pages/transcripts.md`, with the PDF in `assets/pdf/`
 - Site identity and layout settings: `_config.yml`
+- Shared page styling: `_includes/site_style.liquid`
 - Social links: `_data/socials.yml`
 - Temporary initials artwork: `assets/img/self.png`
 
