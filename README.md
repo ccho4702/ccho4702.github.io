@@ -11,9 +11,9 @@ This is Changho Choi's research homepage, built with the [al-folio](https://gith
 - Site identity and layout settings: `_config.yml`
 - Shared page styling: `_includes/site_style.liquid`
 - Social links: `_data/socials.yml`
-- Temporary initials artwork: `assets/img/self.png`
+- Profile portrait: `assets/img/self.png`
 
-The site is in English for an international academic audience. `self.png` is currently an initials placeholder; replace that file with your portrait PNG when ready. Education and internship details are based on the attached CV.
+The site is in English for an international academic audience. Education and internship details are based on the attached CV.
 
 ## Preview locally
 
