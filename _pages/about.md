@@ -20,7 +20,7 @@ permalink: /
     </div>
 
     <div class="hero-photo">
-      <img src="{{ '/assets/img/self.png' | relative_url }}" alt="Portrait of Changho Choi" loading="eager">
+      <img src="{{ '/assets/img/self.png' | relative_url | bust_file_cache }}" alt="Portrait of Changho Choi" loading="eager">
     </div>
   </div>
 
