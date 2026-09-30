@@ -4,7 +4,7 @@ This is Changho Choi's research homepage, built with the [al-folio](https://gith
 
 ## What is on the site
 
-- Introduction, research interests, email, Google Scholar, and GitHub links: `_pages/about.md`
+- Homepage sections and profile links: `_pages/about.md` and `_layouts/home.liquid`
 - Publications: `_bibliography/papers.bib` and `_pages/publications.md`
 - CV page: `_pages/cv.md`, with the PDF at `assets/pdf/Changho_CV.pdf`.
 - Undergraduate transcript link: `_pages/transcripts.md`, with the PDF in `assets/pdf/`

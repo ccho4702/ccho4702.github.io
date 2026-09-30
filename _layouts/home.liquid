@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<div class="home-sections">
+  {{ content }}
+  <section class="home-card" aria-labelledby="selected-publications">
+    <div class="home-section-heading">
+      <h2 id="selected-publications">Selected Publications</h2>
+      <a href="{{ '/publications/' | relative_url }}">View all <span aria-hidden="true">→</span></a>
+    </div>
+    {% include selected_papers.liquid %}
+  </section>
+</div>
