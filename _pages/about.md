@@ -32,7 +32,7 @@ Previously, I worked with the AI Foundation Model Team at **KRAFTON**, contribut
   <a href="https://scholar.google.com/citations?user=t7GLfp0AAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer" aria-label="Google Scholar"><i class="ai ai-google-scholar" aria-hidden="true"></i> Google Scholar</a>
   <a href="https://github.com/ccho4702" target="_blank" rel="noopener noreferrer" aria-label="GitHub"><i class="fa-brands fa-github" aria-hidden="true"></i> GitHub</a>
   <a href="/publications/" aria-label="Publications"><i class="fa-solid fa-book-open" aria-hidden="true"></i> Publications</a>
-  <a href="/cv/" aria-label="CV"><i class="fa-solid fa-file-pdf" aria-hidden="true"></i> CV</a>
+  <a href="/assets/pdf/Changho_CV.pdf" target="_blank" rel="noopener noreferrer" aria-label="CV PDF"><i class="fa-solid fa-file-pdf" aria-hidden="true"></i> CV</a>
   <a href="/transcripts/" aria-label="Undergraduate transcript"><i class="fa-solid fa-graduation-cap" aria-hidden="true"></i> Transcript</a>
 </div>
 
@@ -42,3 +42,32 @@ Previously, I worked with the AI Foundation Model Team at **KRAFTON**, contribut
 - Speech and audio-language models
 - Multimodal reasoning and evaluation
 - LLM reasoning and agents
+
+### Education
+
+<div class="timeline-entry">
+  <div><strong>KAIST</strong><br>Ph.D. in Electrical Engineering</div>
+  <span class="timeline-date">Mar 2026 – Present</span>
+</div>
+<div class="timeline-entry">
+  <div><strong>Carnegie Mellon University</strong><br>Visiting Scholar, Software and Societal Systems Department</div>
+  <span class="timeline-date">Aug 2026 – Present</span>
+</div>
+<div class="timeline-entry">
+  <div><strong>KAIST</strong><br>M.S. in Electrical Engineering</div>
+  <span class="timeline-date">Mar 2024 – Feb 2026</span>
+</div>
+<div class="timeline-entry">
+  <div><strong>Korea University</strong><br>B.S. in Cyber Defense</div>
+  <span class="timeline-date">Mar 2020 – Feb 2024</span>
+</div>
+
+### Internship
+
+<div class="timeline-entry">
+  <div><strong>KRAFTON · AI Foundation Model Team</strong><br>Machine Learning Engineer, Data Team</div>
+  <span class="timeline-date">Jan 2026 – Aug 2026</span>
+</div>
+
+- Built and curated speech-text data through ASR/TTS pipelines, alignment, and quality filtering for Raon-Speech and its full-duplex extension.
+- Prepared LLM pretraining data through web crawling, curation, deduplication, preprocessing, and quality filtering.

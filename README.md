@@ -6,14 +6,14 @@ This is Changho Choi's research homepage, built with the [al-folio](https://gith
 
 - Introduction, research interests, email, Google Scholar, and GitHub links: `_pages/about.md`
 - Publications: `_bibliography/papers.bib` and `_pages/publications.md`
-- CV page: `_pages/cv.md`. Add `assets/pdf/Changho_Choi_CV.pdf` to make the download link appear.
+- CV page: `_pages/cv.md`, with the PDF at `assets/pdf/Changho_CV.pdf`.
 - Undergraduate transcript link: `_pages/transcripts.md`, with the PDF in `assets/pdf/`
 - Site identity and layout settings: `_config.yml`
 - Shared page styling: `_includes/site_style.liquid`
 - Social links: `_data/socials.yml`
 - Temporary initials artwork: `assets/img/self.png`
 
-The site is in English for an international academic audience. `self.png` is currently an initials placeholder; replace that file with your portrait PNG when ready. The CV page is prepared, but no CV PDF has been supplied yet.
+The site is in English for an international academic audience. `self.png` is currently an initials placeholder; replace that file with your portrait PNG when ready. Education and internship details are based on the attached CV.
 
 ## Preview locally
 
