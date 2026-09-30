@@ -11,6 +11,8 @@ nav_order: 1
 
 For the most current list, see my [Google Scholar profile](https://scholar.google.com/citations?user=t7GLfp0AAAAJ&hl=en).
 
+<p class="publication-note"><sup>*</sup> Equal contribution</p>
+
 <div class="publications">
 {% bibliography %}
 </div>
