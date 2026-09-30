@@ -14,9 +14,9 @@ permalink: /
     <div class="hero-copy">
       <p>Hello! I am <strong>Changho Choi</strong>, a Ph.D. student in Electrical Engineering at <a href="https://www.kaist.ac.kr/en/">KAIST</a> advised by <a href="https://scholar.google.com/citations?user=GdQtWNQAAAAJ&amp;hl=en">Prof. Junmo Kim</a>. I am currently visiting Carnegie Mellon University through a fully funded Korean government exchange program.</p>
 
-      <p>My research focuses on <strong>data-centric foundation models, audio-language models, and multimodal reasoning</strong>. I study how data and training decisions shape what models can do: which examples are useful, when they should be introduced, and how to evaluate their value before expensive full-scale training. I am also interested in LLM reasoning, agent learning, and benchmarks that reveal where models succeed or fail.</p>
+      <p>Previously, I worked with the AI Foundation Model Team at <strong>KRAFTON</strong>, contributing to data pipelines for speech and text foundation models.</p>
 
-      <p>Previously, I worked with the AI Foundation Model Team at <strong>KRAFTON</strong>, contributing to data pipelines for speech and text foundation models. My academic work includes <a href="https://arxiv.org/abs/2606.18273">Continuous Audio Thinking</a> for audio-language models and <a href="https://arxiv.org/abs/2508.05269">B4DL</a>, a benchmark for spatio-temporal reasoning over 4D LiDAR.</p>
+      <p>My research focuses on <strong>data-centric foundation models, audio-language models, and multimodal reasoning</strong>. I study how data and training decisions shape what models can do: which examples are useful, when they should be introduced, and how to evaluate their value before expensive full-scale training. I am also interested in LLM reasoning, agent learning, and benchmarks that reveal where models succeed or fail.</p>
     </div>
 
     <div class="hero-photo">
@@ -36,8 +36,7 @@ permalink: /
   <h2 id="research-interests">Research Interests</h2>
   <ul>
     <li>Data selection and training strategies for foundation models</li>
-    <li>Speech and audio-language models</li>
-    <li>Multimodal reasoning and evaluation</li>
+    <li>Multimodal large language models</li>
     <li>LLM reasoning and agents</li>
   </ul>
 </section>
