@@ -6,15 +6,22 @@ subtitle: Ph.D. student, Electrical Engineering, KAIST · Visiting researcher at
 
 profile:
   align: right
-  image: changho-avatar.svg
+  image: self.png
   image_circular: false
   more_info: >
     <p>Pittsburgh, PA / Daejeon, South Korea</p>
-    <p><a href="mailto:changhoc@andrew.cmu.edu">changhoc@andrew.cmu.edu</a></p>
+    <p class="profile-links" style="display:flex;gap:0.65rem;justify-content:center;font-size:1.5rem;line-height:1.5">
+      <a href="mailto:ccho4702@kaist.ac.kr" aria-label="Email" title="Email">✉️</a>
+      <a href="https://scholar.google.com/citations?user=t7GLfp0AAAAJ&amp;hl=en" aria-label="Google Scholar" title="Google Scholar" target="_blank" rel="noopener noreferrer">📚</a>
+      <a href="https://github.com/ccho4702" aria-label="GitHub" title="GitHub" target="_blank" rel="noopener noreferrer">💻</a>
+      <a href="/publications/" aria-label="Publications" title="Publications">📰</a>
+      <a href="/cv/" aria-label="CV" title="CV">📄</a>
+      <a href="/transcripts/" aria-label="Undergraduate transcript" title="Undergraduate transcript">🎓</a>
+    </p>
     <p><a href="mailto:ccho4702@kaist.ac.kr">ccho4702@kaist.ac.kr</a></p>
 
 selected_papers: true
-social: true
+social: false
 
 announcements:
   enabled: false
@@ -35,7 +42,3 @@ Previously, I worked with the AI Foundation Model Team at **KRAFTON**, contribut
 - Speech and audio-language models
 - Multimodal reasoning and evaluation
 - LLM reasoning and agents
-
-### Quick links
-
-[Email](mailto:changhoc@andrew.cmu.edu) · [Google Scholar](https://scholar.google.com/citations?user=t7GLfp0AAAAJ&hl=en) · [GitHub](https://github.com/ccho4702) · [Publications]({{ '/publications/' | relative_url }}) · [Transcripts]({{ '/transcripts/' | relative_url }})
