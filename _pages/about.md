@@ -12,7 +12,7 @@ permalink: /
 
   <div class="hero-grid">
     <div class="hero-copy">
-      <p>Hello! I am <strong>Changho Choi</strong>, a Ph.D. student in Electrical Engineering at <a href="https://www.kaist.ac.kr/en/">KAIST</a> advised by <a href="https://scholar.google.com/citations?user=GdQtWNQAAAAJ&amp;hl=en">Prof. Junmo Kim</a>. I am currently visiting Carnegie Mellon University through a fully funded Korean government exchange program. I also work remotely as an intern at <a href="https://pyler.tech/">PYLER</a> on agent-based multimodal video retrieval. Previously, I was a Machine Learning Engineer intern with the AI Foundation Model Team at <strong>KRAFTON</strong>, contributing to pretraining data pipelines for <a href="https://huggingface.co/KRAFTON/Raon-1-mini-preview">Raon-1-mini</a> and <a href="https://huggingface.co/KRAFTON/Raon-Speech-9B">Raon-Speech-9B</a>.</p>
+      <p>Hello! I am <strong>Changho Choi</strong>, a Ph.D. student in Electrical Engineering at <a href="https://www.kaist.ac.kr/en/">KAIST</a> advised by <a href="https://scholar.google.com/citations?user=GdQtWNQAAAAJ&amp;hl=en">Prof. Junmo Kim</a>. I am currently visiting Carnegie Mellon University through a fully funded Korean government exchange program. I also work remotely as an intern at <a href="https://pyler.tech/">PYLER</a> on agent-based multimodal video retrieval. Previously, I was a Machine Learning Engineer intern with the AI Foundation Model Team at <strong>KRAFTON</strong>, working on data curation and evaluation for speech and text foundation models, including <a href="https://huggingface.co/KRAFTON/Raon-1-mini-preview">Raon-1-mini</a> and <a href="https://huggingface.co/KRAFTON/Raon-Speech-9B">Raon-Speech-9B</a>.</p>
 
       <p>My research focuses on <strong>data-centric foundation models, audio-language models, and multimodal reasoning</strong>. I study how data and training decisions shape what models can do: which examples are useful, when they should be introduced, and how to evaluate their value before expensive full-scale training. I am also interested in LLM reasoning, agent learning, and benchmarks that reveal where models succeed or fail.</p>
     </div>
@@ -75,7 +75,7 @@ permalink: /
   </div>
   <ul>
     <li>Contributed to pretraining data pipelines for <a href="https://huggingface.co/KRAFTON/Raon-1-mini-preview">Raon-1-mini</a> (30B-A4B MoE LLM) and <a href="https://huggingface.co/KRAFTON/Raon-Speech-9B">Raon-Speech-9B</a> (9B Speech LLM).</li>
-    <li>Built and evaluated large-scale datasets for ASR, TTS, and full-duplex speech modeling. Scaled processing across a large B300 GPU cluster using vLLM and Slurm, and used proxy models to assess model performance and training data quality.</li>
+    <li>Built and curated large-scale speech–text datasets for Raon-Speech and its full-duplex extension through ASR/TTS pipelines, alignment, dialogue processing, and quality filtering. Scaled processing across a large B300 GPU cluster using vLLM and Slurm, and evaluated model performance and training data quality using proxy models.</li>
     <li>Prepared text pretraining corpora through synthesis, web crawling, curation, deduplication, preprocessing, and quality filtering.</li>
   </ul>
 </section>
