@@ -11,7 +11,9 @@ nav_order: 2
 
 {% assign cv_pdf = site.static_files | where: "path", "/assets/pdf/Changho_CV.pdf" | first %}
 {% if cv_pdf %}
-[Download my CV (PDF)]({{ '/assets/pdf/Changho_CV.pdf' | relative_url }})
+Updated October 27, 2026.
+
+[Download my CV (PDF)]({{ '/assets/pdf/Changho_CV.pdf' | relative_url | bust_file_cache }})
 {% else %}
 My CV PDF will be available here soon.
 {% endif %}

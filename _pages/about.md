@@ -12,7 +12,7 @@ permalink: /
 
   <div class="hero-grid">
     <div class="hero-copy">
-      <p>Hello! I am <strong>Changho Choi</strong>, a Ph.D. student in Electrical Engineering at <a href="https://www.kaist.ac.kr/en/">KAIST</a> advised by <a href="https://scholar.google.com/citations?user=GdQtWNQAAAAJ&amp;hl=en">Prof. Junmo Kim</a>. I am currently visiting Carnegie Mellon University through a fully funded Korean government exchange program. Previously, I worked with the AI Foundation Model Team at <strong>KRAFTON</strong>, contributing to data pipelines for speech and text foundation models.</p>
+      <p>Hello! I am <strong>Changho Choi</strong>, a Ph.D. student in Electrical Engineering at <a href="https://www.kaist.ac.kr/en/">KAIST</a> advised by <a href="https://scholar.google.com/citations?user=GdQtWNQAAAAJ&amp;hl=en">Prof. Junmo Kim</a>. I am currently visiting Carnegie Mellon University through a fully funded Korean government exchange program. I also work remotely as an intern at <a href="https://pyler.tech/">PYLER</a> on agent-based multimodal video retrieval. Previously, I was a Machine Learning Engineer intern with the AI Foundation Model Team at <strong>KRAFTON</strong>, contributing to pretraining data pipelines for <a href="https://huggingface.co/KRAFTON/Raon-1-mini-preview">Raon-1-mini</a> and <a href="https://huggingface.co/KRAFTON/Raon-Speech-9B">Raon-Speech-9B</a>.</p>
 
       <p>My research focuses on <strong>data-centric foundation models, audio-language models, and multimodal reasoning</strong>. I study how data and training decisions shape what models can do: which examples are useful, when they should be introduced, and how to evaluate their value before expensive full-scale training. I am also interested in LLM reasoning, agent learning, and benchmarks that reveal where models succeed or fail.</p>
     </div>
@@ -59,14 +59,23 @@ permalink: /
   </div>
 </section>
 
-<section class="home-card" aria-labelledby="internship">
-  <h2 id="internship">Internship</h2>
+<section class="home-card" aria-labelledby="experience">
+  <h2 id="experience">Industry Experience</h2>
   <div class="timeline-entry">
-    <div><strong>KRAFTON · AI Foundation Model Team</strong><br>Machine Learning Engineer, Data Team</div>
+    <div><strong><a href="https://pyler.tech/">PYLER</a></strong><br>Remote Intern</div>
+    <span class="timeline-date">Oct 2026 – Present</span>
+  </div>
+  <ul>
+    <li>Built a multimodal video retrieval pipeline combining embedding-based search, multimodal LLM verification, and web-search agents to return timestamped moments from natural-language queries.</li>
+  </ul>
+
+  <div class="timeline-entry experience-entry">
+    <div><strong>KRAFTON · AI Foundation Model Team</strong><br>Machine Learning Engineer, Data Team Intern</div>
     <span class="timeline-date">Jan 2026 – Aug 2026</span>
   </div>
   <ul>
-    <li>Built and curated speech-text data through ASR/TTS pipelines, alignment, and quality filtering for Raon-Speech and its full-duplex extension.</li>
-    <li>Prepared LLM pretraining data through web crawling, curation, deduplication, preprocessing, and quality filtering.</li>
+    <li>Contributed to pretraining data pipelines for <a href="https://huggingface.co/KRAFTON/Raon-1-mini-preview">Raon-1-mini</a> (30B-A4B MoE LLM) and <a href="https://huggingface.co/KRAFTON/Raon-Speech-9B">Raon-Speech-9B</a> (9B Speech LLM).</li>
+    <li>Built and evaluated large-scale datasets for ASR, TTS, and full-duplex speech modeling. Scaled processing across a large B300 GPU cluster using vLLM and Slurm, and used proxy models to assess model performance and training data quality.</li>
+    <li>Prepared text pretraining corpora through synthesis, web crawling, curation, deduplication, preprocessing, and quality filtering.</li>
   </ul>
 </section>
